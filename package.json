@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "catch-reports-auth",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
-  "version": "0.1.0",
+  "description": "Catch reports front-end auth functionality",
+  "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "gatsby": "^4.7.2",
