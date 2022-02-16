@@ -3,7 +3,7 @@
   "private": true,
   "description": "Catch reports front-end auth functionality",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Angelo Keirsebilck <info@angelokeirsebilck.be>",
   "dependencies": {
     "gatsby": "^4.7.2",
     "gatsby-plugin-gatsby-cloud": "^4.7.0",
@@ -37,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/angelokeirsebilck/gatsby-catch-reports-auth"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
