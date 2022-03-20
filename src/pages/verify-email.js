@@ -13,7 +13,7 @@ const VerifyEmail = ({ location }) => {
     setLoading(true)
     try {
       const { data } = await axios.post(
-        `${process.env.API_URL}/auth/verify-email`,
+        `${process.env.GATSBY_API_URL}/auth/verify-email`,
         {
           verificationToken: params.get("token"),
           email: params.get("email"),
